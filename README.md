@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Awsnaser
+- 👋 Hi, I’m @Aws Jaber Independent Researcher | Associate Professor | Research Scientist | Principal Investigator | Information Security Consultant | Sweden | Willing to Relocate | Hiking
 - 👀 I’m interested in Cybersecurity, Machine learning, computer netwroks and cloud computing  
 - 🌱 I’m currently learning new progeamming languages 
 - 💞️ I’m looking to collaborate on Cybersecurity, Networking, Artificial Intelligence,Software Defined Networking
